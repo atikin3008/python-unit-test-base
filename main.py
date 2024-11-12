@@ -6,4 +6,5 @@ def min_of_three_vars(a, b, c):
     elif c < a and c < b:
         return c
 
-    
+print("Hello, world!")
+
